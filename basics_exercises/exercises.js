@@ -1,7 +1,8 @@
-// 1
+/* 
+(1)
 console.log('Amaad ' + 'Syed');
 
-//2
+(2)
 let num = 4936;
 let ones = num % 10;
 num = (num - ones) / 10;
@@ -15,32 +16,30 @@ console.log(tens);
 console.log(hundreds);
 console.log(thousands);
 
-//3
-/*
+(3)
 string
 boolean
 number
 number
 undefined
 object
-*/
 
-//4
-// The code logs 510 because of implicit coercion, which changes the second number into a string.
+(4)
+The code logs '510' due to implicit coercion 
 
-//5 
+(5) 
 console.log(Number('5') + 10);
 
-//6 
+(6) 
 console.log(`The value of 5 + 10 is ${Number('5') + 10}.`);
 
-//7
-// No, the code logs undefined.
+(7)
+ No error, the code logs undefined to the console.
 
-//8
+(8)
 let names = ['asta', 'butterscotch', 'pudding', 'neptune', 'darwin'];
 
-//9 
+(9) 
 let pets = {
   asta: 'dog',
   butterscotch: 'cat',
@@ -49,11 +48,12 @@ let pets = {
   darwin: 'lizard'
 };
 
-//10
-// Evaluates to false.
+(10)
+Evaluates to false.
 
-//11 
-// Evaluates to 3.
+(11) 
+Evaluates to 3.
 
-//12
-// Evaluates to true.
+(12)
+Evaluates to true.
+*/

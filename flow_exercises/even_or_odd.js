@@ -9,8 +9,7 @@ function evenOrOdd(num) {
     }
   }
 }
- evenOrOdd(0)
- evenOrOdd(0.5)
+ evenOrOdd(1.5)
  evenOrOdd(1)
  evenOrOdd(2)
  evenOrOdd(3)
